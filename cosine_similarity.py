@@ -53,5 +53,3 @@ def cosine_similarity (inputA : str, inputB : str) -> Tuple[List[int],List[int]]
 
     cos_sim : float = dot_product / (math.sqrt(magnitude_of_a) * math.sqrt(magnitude_of_b))
     return round(cos_sim,2)
-
-print(cosine_similarity("my cat has fleas in its fur","my cat has ticks in the fur on its head"))
