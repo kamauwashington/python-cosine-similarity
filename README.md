@@ -18,7 +18,7 @@ Phrases or sentences are converted into vectors by splitting the words apart cou
 |Stc A|1|1|1|1|0|1|1|0|1|0|0
 |Stc B|1|1|1|0|1|1|1|1|1|1|1
 
-### Results in 0.72 or 72% alike
+### Results in 0.72 or 72% similarity
 Re-iterating that this is a vanilla implementation that does not include any weighting, libraries, stop word, or any methods of finding "meaning" in a phrase or sentence.
 
 
